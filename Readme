@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-asnsible-user
-=======
-asnsible-web!
-=======
-asnsible-web!!
->>>>>>> ansible-web
-
->>>>>>> ansible-web
+merge user and web
